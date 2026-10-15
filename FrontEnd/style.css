@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html
+{
+	background-image: url(Background2.png);
+	font-family: 'Comic-Sans MS';
+}
+
+header
+{
+	text-align: center;
+	background-color: rgb(19, 159, 240);
+}
